@@ -95,7 +95,7 @@
                     "answer": "It inserts a line break."
                 },
                 {
-                    "question": "In HTML, what does the `fieldset` tag do?",
+                    "question": "In HTML, what does the <fieldset> tag do?",
                     "options": [
                         "It is used to group related data in a form.",
                         "It sets the field to a fixed size.",

@@ -242,6 +242,7 @@ video {
   left: 0;
   border-radius: var(--borderRadius);
   outline-offset: 3px;
+  cursor: pointer;
 }
 
 .input--card input[type='radio']:checked,
@@ -351,6 +352,7 @@ video {
   position: relative;
   height: 1.25rem;
   width: 2rem;
+  pointer-events: none;
 }
 
 .color-mode-toggle input[type='checkbox'] {

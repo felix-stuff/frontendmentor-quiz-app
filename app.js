@@ -42,7 +42,7 @@ const appendQuizSelect = (quiz) => {
 
   const categoryLabel = createElement('label', '', {
     for: quiz.title,
-    class: 'input input--card',
+    class: 'input--card',
   });
 
   const categoryInput = createElement('input', '', {
